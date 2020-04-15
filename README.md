@@ -6,9 +6,6 @@ This folder contains 3 separate elements:
   - Aggregate data from each cohort 
   - Code in R to produce the figures and tables in the manuscript
   
- To reproduce the results:
-  1. Convert .xls to .csv
-  2. Change location of the data files
-  3. Run the code
-  
-  Any problems with the access to the data or data itself, contact me at jrubio13@northwell.edu
+ To reproduce the results just update the paths and run the code
+
+ Any problems with the access to the data or data itself, contact me at jrubio13@northwell.edu
